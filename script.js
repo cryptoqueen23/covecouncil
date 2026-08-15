@@ -130,6 +130,6 @@ if (form) {
       if (firstInvalid) firstInvalid.focus();
       return;
     }
-    status.textContent = 'Thank you. This demo form is ready to be connected to the campaign’s email or CRM service.';
+    status.textContent = 'Thank you for your interest in the campaign.';
   });
 }
